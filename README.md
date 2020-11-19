@@ -15,8 +15,8 @@ These scans are analyzed using simple machine learning methods to derive a uniqu
 
 <img src="https://github.com/CRLPurdue/Clutter_Slices/blob/main/cs_pipeline.png" width="600" height="150" />
 
-This unique signature is used for recognition and classification purposes. We attained 93.5% ccuracy with this approach in classifying
-these spaces using the clutter Slices dataset. 
+This unique signature is used for recognition and classification purposes. We attained 93.5% accuracy with this approach in classifying
+spaces using the clutter Slices dataset. 
 
 <img src="https://github.com/CRLPurdue/Clutter_Slices/blob/main/results.png" width="400" height="400" />
 

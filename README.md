@@ -19,7 +19,7 @@ these spaces using the clutter Slices dataset.
 
 For citing this dataset, please use the following citation:
 ```
-@inprocedings{kaur_abbaraju_mccarty_voyles, 
+@inproceedings{kaur_abbaraju_mccarty_voyles, 
 title={Clutter Slices Approach for Identification-on-the-fly of Indoor Spaces}, 
 author={Kaur, Upinder and Abbaraju, Praveen and McCarty, Harisson and Voyles, Richard M},
 year = {2020},

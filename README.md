@@ -1,4 +1,7 @@
 # Clutter_Slices
+# Clutter Slices Approach for Identification-on-the-fly of Indoor Spaces
+### Authors: Upinder Kaur (@upinderKaur22), Praveen Abbaraju , Harisson McCarty (@hmccarty), and Richard Voyles. 
+
 This repository contains code as well as the clutter slices dataset. 
 
 Clutter Slices is a unique way to comprehend surroundings based on the distribution of objects in a space.
@@ -25,3 +28,4 @@ author={Kaur, Upinder and Abbaraju, Praveen and McCarty, Harisson and Voyles, Ri
 year = {2020},
 }
 ```
+Dataset also available at: https://github.com/upinderKaur22/CRL_ClutterSlices_dataset

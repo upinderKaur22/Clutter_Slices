@@ -9,7 +9,7 @@ Clutter Slices is a unique way to comprehend surroundings based on the distribut
 We present a novel dataset (Clutter_slices_data.zip) which contains 2D LIDAR scans of common spaces, such as Restrooms,
 corridors, staircases, and shared spaces.
 
-<img src="https://github.com/CRLPurdue/Clutter_Slices/blob/main/corridor_staircase.png" width="400" height="300" />
+<img src="https://github.com/CRLPurdue/Clutter_Slices/blob/main/icpr2020.jpg" width="400" height="300" />
 
 These scans are analyzed using simple machine learning methods to derive a unique signature of these spaces. 
 

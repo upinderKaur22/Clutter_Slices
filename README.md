@@ -22,10 +22,13 @@ spaces using the clutter Slices dataset.
 
 For citing this dataset, please use the following citation:
 ```
-@inproceedings{kaur_abbaraju_mccarty_voyles, 
-title={Clutter Slices Approach for Identification-on-the-fly of Indoor Spaces}, 
-author={Kaur, Upinder and Abbaraju, Praveen and McCarty, Harisson and Voyles, Richard M},
-year = {2020},
+@inproceedings{kaur2021clutter,
+  title={Clutter Slices Approach for Identification-on-the-Fly of Indoor Spaces},
+  author={Kaur, Upinder and Abbaraju, Praveen and McCarty, Harrison and Voyles, Richard M},
+  booktitle={International Conference on Pattern Recognition},
+  pages={490--499},
+  year={2021},
+  organization={Springer}
 }
 ```
 Dataset also available at: https://github.com/upinderKaur22/CRL_ClutterSlices_dataset
